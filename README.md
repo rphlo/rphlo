@@ -1,4 +1,4 @@
-![](https://cdn.rphlo.com/qrweb.svg)
+![](https://cdn.rphlo.com/qrweb.png)
 
 # About Me
 
