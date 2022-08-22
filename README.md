@@ -1,4 +1,4 @@
-# RPHLO
+# RPHLO: Raphaël Online
 
 ## About Me
 
