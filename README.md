@@ -12,6 +12,5 @@
 
 [Github](https://github.com/rphlo) - [Twitter](https://twitter.com/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
 
-https://rphlo.com
 
-<a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/></a>
+<a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/><br/>rphlo.com</a>
