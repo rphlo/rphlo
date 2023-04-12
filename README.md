@@ -1,4 +1,5 @@
-# RPHLO: Raphaël Online
+# RPHLO
+*Call me Rapha*
 
 ## About Me
 
@@ -6,7 +7,21 @@
 
 ## Projects I am working on:
 
-[Routechoices.com](https://www.routechoices.com) - [Mapdump.com](https://mapdump.com) - [Humppakone.com](https://humppakone.com)
+### [Routechoices.com](https://www.routechoices.com) [[repo]](https://github.com/routechoices)
+
+A live GPS tracking solution dedicated to orienteering sports
+
+### [Rusty Pullauta](https://github.com/rphlo/rusty-pullauta)
+
+A efficient rewrite of a tool used to generate accurate maps out of LIDAR data input files. 
+
+### [Mapdump.com](https://mapdump.com) [[repo]](https://github.com/rphlo/mapdump)
+
+A platform used for archiving orienteering maps.
+
+### [Humppakone.com](https://humppakone.com) [[repo backend]](https://github.com/rphlo/nickelodeon-backend) [[repo frontend]](https://github.com/rphlo/nickelodeon-react-app)
+
+A music streaming platform.
 
 ## My Socials:
 
