@@ -1,5 +1,4 @@
 # RPHLO
-<a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/><br/>rphlo.com</a>
 
 ![](https://cdn.rphlo.com/heart_beating.gif) French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
 
@@ -25,4 +24,5 @@ A music streaming platform.
 
 [Twitter](https://twitter.com/rphlo) - [Github](https://github.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
 
-
+---
+<a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/><br/>rphlo.com</a>
