@@ -2,7 +2,7 @@
 
 ![](https://cdn.rphlo.com/heart_beating.gif) French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
 
-## Projects I am working on GITHUB:
+## Projects I am working on Github:
 
 ### [Routechoices.com](https://www.routechoices.com) [[repo]](https://github.com/routechoices)
 
