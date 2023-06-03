@@ -1,6 +1,8 @@
 # RPHLO
 <a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/><br/>rphlo.com</a>
-![](https://cdn.rphlo.com/heart_beating.gif) French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
+![](https://cdn.rphlo.com/heart_beating.gif)
+
+French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
 
 ## Projects I am working on GITHUB:
 
