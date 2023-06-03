@@ -3,7 +3,7 @@
 
 ## About Me
 
-![](https://cdn.rphlo.com/heart_beating.gif) I am a French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
+![](https://cdn.rphlo.com/heart_beating.gif) French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
 
 ## Projects I am working on:
 
