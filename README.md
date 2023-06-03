@@ -9,7 +9,7 @@
 
 ### [Routechoices.com](https://www.routechoices.com) [[repo]](https://github.com/routechoices)
 
-A live GPS tracking solution dedicated to orienteering sports
+A live GPS tracking solution dedicated to orienteering sports.
 
 ### [Rusty Pullauta](https://github.com/rphlo/rusty-pullauta)
 
@@ -25,7 +25,7 @@ A music streaming platform.
 
 ## My Socials:
 
-[Github](https://github.com/rphlo) - [Twitter](https://twitter.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
+[Twitter](https://twitter.com/rphlo) - [Github](https://github.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
 
 
 <a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/><br/>rphlo.com</a>
