@@ -22,7 +22,7 @@ A music streaming platform.
 
 ## My Socials:
 
-[X / Twitter](https://twitter.com/rphlo) - [Github](https://github.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
+[Github](https://github.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
 
 ---
 <a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/></a>
