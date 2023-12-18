@@ -1,28 +1,29 @@
 # RPHLO
+## Rapha's Programming & Hardware, Live & Online
 
-![](https://cdn.rphlo.com/heart_beating.gif) French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being.
+French 🇫🇷 born, Finland 🇫🇮 living, human 🧍 being, writes software and build hardware, with live features and online capabilities.
 
-## Projects I am working on Github:
+## Projects:
 
-### Routechoices.com [[link]](https://www.routechoices.com) [[repo]](https://github.com/routechoices)
+### Rusty Pullauta
 
-A live GPS tracking solution for orienteering sports.
+A efficient rewrite of a tool used to generate accurate maps out of LIDAR data input files. [[GIT]](https://github.com/rphlo/rusty-pullauta)
 
-### Rusty Pullauta [[repo]](https://github.com/rphlo/rusty-pullauta)
+### [Routechoices.com](https://www.routechoices.com)
 
-A efficient rewrite of a tool used to generate accurate maps out of LIDAR data input files. 
+A live GPS tracking solution for orienteering sports. [[GIT]](https://github.com/routechoices)
 
-### Mapdump.com [[link]](https://mapdump.com) [[repo]](https://github.com/rphlo/mapdump)
+### [Mapdump.com](https://mapdump.com)
 
-A platform used for archiving orienteering maps.
+A platform used for archiving orienteering maps. [[GIT]](https://github.com/rphlo/mapdump)
 
-### Humppakone.com [[link]](https://humppakone.com) [[repo backend]](https://github.com/rphlo/nickelodeon-backend) [[repo frontend]](https://github.com/rphlo/nickelodeon-react-app)
+### [Humppakone.com](https://humppakone.com)
 
-A music streaming platform.
+A private music streaming platform. [[Backend GIT]](https://github.com/rphlo/nickelodeon-backend) [[Frontend GIT]](https://github.com/rphlo/nickelodeon-react-app)
 
-## My Socials:
+## Socials:
 
-[Github](https://github.com/rphlo) - [LinkedIn](https://www.linkedin.com/in/rphlo) - [Instagram](https://instagram.com/rphlo) - [Strava](https://strava.com/athletes/rphlo) - [Mapdump](https://mapdump.com/athletes/rphlo)
+### [LinkedIn](https://www.linkedin.com/in/rphlo)
 
 ---
 <a href="https://rphlo.com/"><img src="https://cdn.rphlo.com/qrweb.png" width="150px"/></a>
