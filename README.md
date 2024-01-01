@@ -1,5 +1,5 @@
 ## Rapha's Github
-## Projects:
+## Featured Projects:
 
 ### [Humppakone.com](https://humppakone.com)
 
